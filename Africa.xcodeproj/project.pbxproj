@@ -35,6 +35,7 @@
 		707517F22C6AB3DC00AD9A11 /* VideoPlayerHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707517F12C6AB3DC00AD9A11 /* VideoPlayerHelper.swift */; };
 		707517F42C6AB93400AD9A11 /* LocationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707517F32C6AB93400AD9A11 /* LocationModel.swift */; };
 		707517F62C6BCF5900AD9A11 /* MapAnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707517F52C6BCF5900AD9A11 /* MapAnnotationView.swift */; };
+		707517F82C6BD53200AD9A11 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 707517F72C6BD53200AD9A11 /* MotionAnimationView.swift */; };
 		7092B8C72C2C65C6001C4084 /* VideoListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092B8C62C2C65C6001C4084 /* VideoListView.swift */; };
 		7092B8C92C2C65D7001C4084 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092B8C82C2C65D7001C4084 /* MapView.swift */; };
 		7092B8CB2C2C65E8001C4084 /* GalleryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7092B8CA2C2C65E8001C4084 /* GalleryView.swift */; };
@@ -78,6 +79,7 @@
 		707517F12C6AB3DC00AD9A11 /* VideoPlayerHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoPlayerHelper.swift; sourceTree = "<group>"; };
 		707517F32C6AB93400AD9A11 /* LocationModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationModel.swift; sourceTree = "<group>"; };
 		707517F52C6BCF5900AD9A11 /* MapAnnotationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapAnnotationView.swift; sourceTree = "<group>"; };
+		707517F72C6BD53200AD9A11 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 		7092B8C62C2C65C6001C4084 /* VideoListView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoListView.swift; sourceTree = "<group>"; };
 		7092B8C82C2C65D7001C4084 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		7092B8CA2C2C65E8001C4084 /* GalleryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GalleryView.swift; sourceTree = "<group>"; };
@@ -215,6 +217,7 @@
 				70B2F1632C4015E800965ACB /* VideoListItemView.swift */,
 				707517EE2C6AB2F500AD9A11 /* VideoPlayerView.swift */,
 				707517F52C6BCF5900AD9A11 /* MapAnnotationView.swift */,
+				707517F72C6BD53200AD9A11 /* MotionAnimationView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -335,6 +338,7 @@
 				7092B8CB2C2C65E8001C4084 /* GalleryView.swift in Sources */,
 				7029AD622C2E1408008A0D14 /* InsetGalleryView.swift in Sources */,
 				7029AD552C2E026D008A0D14 /* CodableBundleExtension.swift in Sources */,
+				707517F82C6BD53200AD9A11 /* MotionAnimationView.swift in Sources */,
 				7029AD602C2E1319008A0D14 /* HeadingView.swift in Sources */,
 				707517EF2C6AB2F500AD9A11 /* VideoPlayerView.swift in Sources */,
 			);
